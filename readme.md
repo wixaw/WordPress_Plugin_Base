@@ -1,4 +1,5 @@
 # Squelette de plugin WordPress
+Fonctionne avec WordPress 5 
 
 ## Configuration
 ### nom du plugin
@@ -7,6 +8,11 @@
 
 ### autoupdate
 - Mettre le update.php dans un dossier hors WP  + generer un .zip
+
+### Appel via bloc gutenberg 
+- Active la fonctionnalité Expérimentale : ( elle devrait arrivé bientôt en stable ) 
+- Gutenberg -> Expérimentaux -> Widgets
+- Edit Page -> ajouter un bloc -> Widget hérité -> plugin-name
 
 ## Autres
 ### i18n et problème 
