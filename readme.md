@@ -1,0 +1,2 @@
+### Squelette de plugin WordPress
+
